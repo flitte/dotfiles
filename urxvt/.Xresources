@@ -40,5 +40,5 @@ xterm.foreground: #ffffff
 *.color15: #c1cdc1
 
 URxvt.xftAntialias: true
-URxvt.font: xft:terminus:size=10:hinting=true
+URxvt.font: xft:Inconsolata\ for\ Powerline:size=10:hinting=true
 URxvt.scrollstyle: plain
