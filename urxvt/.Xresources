@@ -41,4 +41,12 @@ xterm.foreground: #ffffff
 
 URxvt.xftAntialias: true
 URxvt.font: xft:Inconsolata\ for\ Powerline:size=10:hinting=true
-URxvt.scrollstyle: plain
+URxvt.scrollstyle: rxvt
+
+URxvt*externalBorder:		0
+URxvt*internalBorder:		2
+URxvt*borderless:		false
+URxvt.scrollBar:		true
+URxvt.scrollBar_right:		true
+URxvt.scrollBar_floating:	false
+URxvt.transparent:		false
