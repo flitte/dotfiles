@@ -46,7 +46,7 @@ URxvt.scrollstyle: rxvt
 URxvt*externalBorder:		0
 URxvt*internalBorder:		2
 URxvt*borderless:		false
-URxvt.scrollBar:		true
-URxvt.scrollBar_right:		true
+URxvt.scrollBar:		false
+URxvt.scrollBar_right:		false
 URxvt.scrollBar_floating:	false
 URxvt.transparent:		false
